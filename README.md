@@ -1,3 +1,4 @@
-# Doeneristgut's website
+# Doeneristgut.github.io
 
-#### ok
+This is a website.
+I try to update this website with some things in the future.
